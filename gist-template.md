@@ -1,4 +1,4 @@
-# Title (replace with your title)
+# Regular Expression - Matching an Email
 
 Introductory paragraph (replace this with your text)
 
@@ -37,4 +37,10 @@ Briefly summarize the regex you will be describing and what you will explain. In
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+Callistus Nguyen is a highly motivated individual with a deep passion for technology and innovation. With a background in biomedical engineering, Callistus constantly seeks opportunities to expand his knowledge and skills in various domains within the tech industry. He currently resides in Houston, TX.
+
+Have additional questions? Click the links below to reach Callistus through his GitHub account or Email address.
+
+[Link to Github](https://github.com/cnguyen1013)
+
+<a href="mailto:cnguyen7@mdanderson.org">cnguyen7@mdanderson.org</a>
