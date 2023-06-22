@@ -4,7 +4,11 @@ Regular expression matching is a powerful tool in the realm of text manipulation
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+This tutorial will be covering the regex expression used for both matching and validating an email:
+
+`^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$`
+
+The provided regex pattern is designed to validate the format of an email address. It ensures that the email address begins with one or more word characters, followed by an "@" symbol, then another sequence of one or more word characters separated by dots. The pattern concludes by requiring a dot followed by one or more word characters at the end of the email address. This regex pattern provides a basic level of validation but does not guarantee the actual existence or deliverability of the email address.
 
 ## Table of Contents
 
